@@ -1,0 +1,40 @@
+Server-one's searching took 0.2870512843132019 minutes
+Server-one's searching took 0.0780738631884257 minutes
+Server-one's searching took 0.07806278467178344 minutes
+Server-one's searching took 0.07783727248509725 minutes
+Server-one's searching took 0.07908081610997518 minutes
+Server-one's searching took 0.07688237031300862 minutes
+Server-one's searching took 0.07867355744043986 minutes
+Server-one's searching took 0.077811598777771 minutes
+Server-one's searching took 0.07750193277994792 minutes
+Server-one's searching took 0.07673392693201701 minutes
+Server two searching took 0.23793190320332844 minutes
+Server two searching took 0.07896693547566731 minutes
+Server two searching took 0.08087765375773112 minutes
+Server two searching took 0.07921269734700521 minutes
+Server two searching took 0.08174259662628174 minutes
+Server two searching took 0.08148135344187418 minutes
+Server two searching took 0.08329813480377198 minutes
+Server two searching took 0.08098055124282837 minutes
+Server two searching took 0.07961522340774536 minutes
+Server two searching took 0.08498374621073405 minutes
+Server three searching took 0.2643832484881083 minutes
+Server three searching took 0.07690438826878866 minutes
+Server three searching took 0.07802167733510336 minutes
+Server three searching took 0.0790963331858317 minutes
+Server three searching took 0.07889081239700317 minutes
+Server three searching took 0.07615689039230347 minutes
+Server three searching took 0.07613432010014852 minutes
+Server three searching took 0.07810749610265096 minutes
+Server three searching took 0.07734573284784953 minutes
+Server three searching took 0.07893229722976684 minutes
+Server four searching took 0.2604585210482279 minutes
+Server four searching took 0.078701913356781 minutes
+Server four searching took 0.08056375980377198 minutes
+Server four searching took 0.07818029721577963 minutes
+Server four searching took 0.07944573958714803 minutes
+Server four searching took 0.07896757125854492 minutes
+Server four searching took 0.07774055401484171 minutes
+Server four searching took 0.07902476390202841 minutes
+Server four searching took 0.07894155184427896 minutes
+Server four searching took 0.07687815427780151 minutes
